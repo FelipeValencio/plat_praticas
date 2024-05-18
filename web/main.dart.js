@@ -21843,7 +21843,7 @@ return A.b([o*m+l*k+j*n,o*r+l*q+j*s,o*p[0]+l*p[1]+j*p[2]],t.n)},
 Fu(a){var s=0,r=A.R(t.Q6),q,p
 var $async$Fu=A.S(function(b,c){if(b===1)return A.O(c,r)
 while(true)switch(s){case 0:s=3
-return A.W($.N1().a3K(a),$async$Fu)
+return A.W($.N1().a3K("/assets/"+a),$async$Fu)
 case 3:p=c
 q=A.asn(A.b([p],t.XS),!0,null,",",'"','"',"\n",!1,!0,null).a00(p,t.N)
 s=1
@@ -65783,7 +65783,7 @@ return s===$?this.c=A.b([],t.t):s},
 uh(){var s=0,r=A.R(t.y),q,p=this,o,n,m,l,k,j,i
 var $async$uh=A.S(function(a,b){if(a===1)return A.O(b,r)
 while(true)switch(s){case 0:s=3
-return A.W(A.Fu("/assets/tabela_estado.csv"),$async$uh)
+return A.W(A.Fu("tabela_estado.csv"),$async$uh)
 case 3:p.b=b
 o=t.N
 n=A.ar(o)
@@ -65836,7 +65836,7 @@ A.o4.prototype={
 rf(){var s=0,r=A.R(t.tm),q,p=this,o,n,m,l,k,j,i,h
 var $async$rf=A.S(function(a,b){if(a===1)return A.O(b,r)
 while(true)switch(s){case 0:s=3
-return A.W(A.Fu("/assets/tabela_recomendacoes.csv"),$async$rf)
+return A.W(A.Fu("tabela_recomendacoes.csv"),$async$rf)
 case 3:p.d=b
 o=A.b([],t.FE)
 n=p.c
