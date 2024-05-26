@@ -30,7 +30,7 @@ const RESOURCES = {"assets/assets/tabela_recomendacoes.csv": "7753f77b0c7f0d4b51
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"flutter_bootstrap.js": "96afcebaa31178c0abb3744a45a5c082",
+"flutter_bootstrap.js": "59497e74177ef90196a12e35d1f9bed1",
 "version.json": "cb54fc19c6da7d4f68f0f7ca6ac2ea72",
 "manifest.json": "f79a3ff6c28c239cc79928156bc2cc53",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
