@@ -22192,7 +22192,7 @@ return A.b([o*m+l*k+j*n,o*r+l*q+j*s,o*p[0]+l*p[1]+j*p[2]],t.n)},
 G1(a){var s=0,r=A.S(t.Q6),q,p
 var $async$G1=A.T(function(b,c){if(b===1)return A.P(c,r)
 while(true)switch(s){case 0:s=3
-return A.Y($.Nz().a4u("/"+a),$async$G1)
+return A.Y($.Nz().a4u("/assets/"+a),$async$G1)
 case 3:p=c
 q=A.atL(A.b([p],t.XS),!0,null,",",'"','"',"\n",!1,!0,null).a0J(p,t.N)
 s=1
