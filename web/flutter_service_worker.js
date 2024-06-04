@@ -13,6 +13,7 @@ const RESOURCES = {"assets/assets/tabela_recomendacoes.csv": "7753f77b0c7f0d4b51
 "assets/AssetManifest.bin": "0267e907ef440d884c6c05c177413b4e",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"composer.json": "8a80554c91d9fca8acb82f023de02f11",
 "index.html": "7c28347414e718edff941d88167d71c0",
 "/": "7c28347414e718edff941d88167d71c0",
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
@@ -33,6 +34,7 @@ const RESOURCES = {"assets/assets/tabela_recomendacoes.csv": "7753f77b0c7f0d4b51
 "flutter_bootstrap.js": "621944ce0300de68c01dbef1a9d73b51",
 "version.json": "cb54fc19c6da7d4f68f0f7ca6ac2ea72",
 "manifest.json": "f79a3ff6c28c239cc79928156bc2cc53",
+"index.php": "be32b1be7e0d4e3c7660b97f62838ca4",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c"};
 // The application shell files that are downloaded before a service worker can
