@@ -22325,7 +22325,7 @@ return A.b([o*m+l*k+j*n,o*r+l*q+j*s,o*p[0]+l*p[1]+j*p[2]],t.n)},
 Gc(a){var s=0,r=A.S(t.Q6),q,p
 var $async$Gc=A.T(function(b,c){if(b===1)return A.P(c,r)
 while(true)switch(s){case 0:s=3
-return A.Y($.NN().a4H("/"+a),$async$Gc)
+return A.Y($.NN().a4H("/assets/"+a),$async$Gc)
 case 3:p=c
 q=A.au9(A.b([p],t.XS),!0,null,",",'"','"',"\n",!1,!0,null).a0W(p,t.N)
 s=1
